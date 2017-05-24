@@ -1,3 +1,7 @@
+# Check this out!!!
+
+[A good explanation on how Git-based collaboration work](https://bitbucket.org/spooning/)
+
 # My first Git repo is now online
 This is a first line of text.
 This is a 2nd line of text.
